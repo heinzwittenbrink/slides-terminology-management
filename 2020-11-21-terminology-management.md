@@ -29,7 +29,6 @@ references:
   language: en-US
   title: >-
     Terminology Management: A Critical First Step in Adopting a Content Strategy
-    | The Content Wrangler
   title-short: Terminology Management
   type: post-weblog
   URL: >-
