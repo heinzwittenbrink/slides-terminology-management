@@ -33,7 +33,6 @@ references:
   title-short: Terminology Management
   type: post-weblog
   URL: >-
-    https://thecontentwrangler.com/2016/02/17/understanding-terminology-management-a-critical-first-step-in-adopting-a-content-strategy/,
     https://thecontentwrangler.com/2016/02/17/understanding-terminology-management-a-critical-first-step-in-adopting-a-content-strategy/
 
 - id: glushkoDocumentEngineeringAnalyzing2008
