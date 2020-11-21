@@ -136,6 +136,8 @@ Cause of
 
 > A pattern of treating language requirements as secondary considerations within content strategies and solutions
 
+[Overcoming Language Afterthought Syndrome](https://slideplayer.com/amp/8147121/ "Overcoming Language Afterthought Syndrome Mary Laplante Senior Analyst, Gilbane Group © 2009 Gilbane Group, Inc. All rights reserved. - ppt download")
+
 [@laplanteOvercomingLanguageAfterthought2009]
 
 
