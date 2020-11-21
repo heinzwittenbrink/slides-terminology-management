@@ -1,4 +1,90 @@
 ---
+references:
+- id: colbornLanguageQualityFoundation2019
+  author:
+    - family: Colborn
+      given: Ben
+    - family: José
+      given: San
+  event-place: Content Connections
+  issued:
+    - year: 2019
+  language: en
+  publisher-place: Content Connections
+  title: Language Quality as a Foundation of Enterprise Content Strategy
+  type: speech
+- id: abelTerminologyManagementCritical2016
+  accessed:
+    - year: 2020
+      month: 11
+      day: 21
+  author:
+    - family: Abel
+      given: Scott
+  container-title: The Content Wrangler
+  issued:
+    - year: 2016
+      month: 2
+      day: 17
+  language: en-US
+  title: >-
+    Terminology Management: A Critical First Step in Adopting a Content Strategy
+    | The Content Wrangler
+  title-short: Terminology Management
+  type: post-weblog
+  URL: >-
+    https://thecontentwrangler.com/2016/02/17/understanding-terminology-management-a-critical-first-step-in-adopting-a-content-strategy/,
+    https://thecontentwrangler.com/2016/02/17/understanding-terminology-management-a-critical-first-step-in-adopting-a-content-strategy/
+
+- id: glushkoDocumentEngineeringAnalyzing2008
+  accessed:
+    - year: 2020
+      month: 11
+      day: 21
+  author:
+    - family: Glushko
+      given: Robert J
+    - family: McGrath
+      given: Tim
+  event-place: Cambridge; Ipswich
+  ISBN: 978-0-262-27395-4
+  issued:
+    - year: 2008
+  language: English
+  note: 'OCLC: 904686248'
+  publisher: 'MIT Press ; Ebsco Publishing [distributor'
+  publisher-place: Cambridge; Ipswich
+  source: Open WorldCat
+  title: >-
+    Document Engineering: Analyzing and Designing Documents for Business
+    Informatics and Web Services.
+  title-short: Document Engineering
+  type: book
+  URL: 'http://ieeexplore.ieee.org/servlet/opac?bknumber=6267396'
+
+- id: laplanteOvercomingLanguageAfterthought2009
+  author:
+    - family: Laplante
+      given: Mary
+  event: Localization World
+  issued:
+    - year: 2009
+  title: Overcoming Language Afterthought Syndrome
+  type: speech
+  URL: 'https://slideplayer.com/amp/8147121/'
+
+- id: WhatTerminologyCore
+  accessed:
+    - year: 2020
+      month: 11
+      day: 21
+  container-title: Acrolinx
+  title: What Is Terminology? - Core Platform
+  type: webpage
+  URL: >-
+    https://docs.acrolinx.com/coreplatform/latest/en/terminology/what-is-terminology
+
+link-citations: true
 csl: apa.csl
 title: Terminology Management and Structured Content
 author: Heinz Wittenbrink
@@ -7,8 +93,7 @@ date: 2020-11-21
 
 # Terminology Management
 
-#
-
+##
 
 ![](https://thecontentwrangler.com/wp-content/uploads/Screenshot-2016-02-15-15.09.52-995x640.png)
 
@@ -111,6 +196,23 @@ Cause of
 
 # Acrolinx
 
+## Status for terms
+
+> With terminology, you give a status to a term and allow only one to be used. In this case, you can say that "email" is the preferred term, and "email message" and "electronic mail" are deprecated terms.
+
+[@WhatTerminologyCore]
+
+## Sidebar: Training
+
+[Get to know the Acrolinx Sidebar - YouTube](https://www.youtube.com/watch?v=KFq5EP54a5M "Get to know the Acrolinx Sidebar - YouTube")
+
+## Sidebar as tool for authors
+
+> Writers get feedback on terminology in the Acrolinx Sidebar. They can see which terms to avoid, and if there’s a linked preferred term, they see a suggestion for the term to use instead.
+
+[@WhatTerminologyCore]
+
+
 
 ## Context sensitivity
 
@@ -120,11 +222,19 @@ Cause of
 
 ## Acrolinx and Oxygen
 
-https://youtu.be/doFn26po8yo
+[Acrolinx and OxygenXML - YouTube](https://www.youtube.com/watch?v=doFn26po8yo&feature=youtu.be "Acrolinx and OxygenXML - YouTube")
 
-Videos mit Case Stories: https://www.acrolinx.com/cc/resources/#video-eu
+## Acrolinx Videos mit Case Stories
 
-Case Study Language Quality: https://acrolinxcc.com/wp-content/uploads/2019/07/2-06-Nutanix_Ben_Colborn-PDF.pdf
+[Resources | Acrolinx](https://www.acrolinx.com/cc/resources/#video-eu "Resources | Acrolinx")
+
+
+
+## Case Study Language Quality
+
+Ben Colborn: [Language Quality as Pillar of Enterprise Content Strategy at Nutanix](https://acrolinxcc.com/wp-content/uploads/2019/07/2-06-Nutanix_Ben_Colborn-PDF.pdf)
+
+[@colbornLanguageQualityFoundation2019]
 
 
 # Case Study: IBM
@@ -156,13 +266,11 @@ Case Study Language Quality: https://acrolinxcc.com/wp-content/uploads/2019/07/2
 
 [@abelTerminologyManagementCritical2016]
 
-## Acrolinx approache
+## Acrolinx approach
 
 > ... support of content quality as a corporate goal ... creating an enterprise terminology management system and linguistic rules designed to ensure consistency and promote the creation of quality content across the enterprise.
 
 [@abelTerminologyManagementCritical2016]
-
-
 
 ## Support of authoring tools
 
