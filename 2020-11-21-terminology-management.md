@@ -61,7 +61,7 @@ references:
   URL: 'https://slideplayer.com/amp/8147121/'
 
 link-citations: true
-csl: apa.csl 
+csl: apa.csl
 title: Terminology Management and Structured Content
 author: Heinz Wittenbrink
 date: 2020-11-21
