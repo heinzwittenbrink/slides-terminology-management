@@ -76,8 +76,6 @@ date: 2020-11-21
 
 ## Terminology related problems
 
-(Source: [@abelTerminologyManagementCritical2016]
-)
 
 ## Inconsistent and inaccurate content
 
